@@ -1,0 +1,65 @@
+{
+  "emergencyId": "GTT-2024-001234",
+  "timestamp": "2024-01-15T15:00:23Z",
+  "location": {
+    "lat": 25.278012,
+    "lng": 55.29789,
+    "address": "Spice Souk, Heritage District, Dubai, UAE"
+  },
+  "route": [
+    {
+      "time": "14:50",
+      "location": "Tourist Information Center",
+      "lat": 25.276987,
+      "lng": 55.296249
+    },
+    {
+      "time": "14:52",
+      "location": "Heritage Village",
+      "lat": 25.277123,
+      "lng": 55.296891
+    },
+    {
+      "time": "14:55",
+      "location": "Traditional Market",
+      "lat": 25.277456,
+      "lng": 55.297234
+    },
+    {
+      "time": "14:57",
+      "location": "Spice Souk",
+      "lat": 25.277789,
+      "lng": 55.297567
+    },
+    {
+      "time": "15:00",
+      "location": "Current Location - Emergency",
+      "lat": 25.278012,
+      "lng": 55.29789
+    }
+  ],
+  "emergencyServices": {
+    "police": {
+      "name": "Dubai Police Station",
+      "distance": "1.2km",
+      "eta": "3 min"
+    },
+    "medical": {
+      "name": "Dubai Hospital Emergency",
+      "distance": "2.1km",
+      "eta": "5 min"
+    }
+  },
+  "contacts": [
+    {
+      "type": "emergency",
+      "name": "Emergency Hotline",
+      "number": "999"
+    },
+    {
+      "type": "tourist",
+      "name": "Tourist Police",
+      "number": "+971-4-609-6999"
+    }
+  ]
+}
