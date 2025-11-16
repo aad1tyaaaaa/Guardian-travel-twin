@@ -18,7 +18,21 @@
 
 ## 🌟 Overview
 
-Guardian Travel Twin is a revolutionary AI-powered tourist safety platform that combines cutting-edge technology with human-centered design to create the ultimate travel protection ecosystem. Our integrated system provides comprehensive safety solutions from digital identity verification to real-time emergency response.
+Our integrated system provides comprehensive safety solutions from digital identity verification to real-time emergency response.
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+*Main landing page of Guardian Travel Twin showcasing the hero section and key features.*
+
+### Core Features
+![Core Features](screenshots/corefeatures.png)
+*Overview of the core features including Digital Tourist ID, Smart Geo-Fencing, and AI Anomaly Detection.*
+
+### Live Demo
+![Live Demo](screenshots/livedemo.png)
+*Interactive live demo of the Emergency SOS System in action.*
 
 ## ✨ Key Features
 
@@ -271,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p><strong>Made with ❤️ for safer travels worldwide</strong></p>
+
   <p>
     <a href="#overview">Overview</a> •
     <a href="#key-features">Features</a> •
@@ -279,4 +293,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <a href="#contributing">Contributing</a>
   </p>
 </div>
+
 
