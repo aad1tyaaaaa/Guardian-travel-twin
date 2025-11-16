@@ -1,13 +1,18 @@
 # 🛡️ Guardian Travel Twin
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-blue?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-latest-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
-[![GSAP](https://img.shields.io/badge/GSAP-3.13-green?style=for-the-badge&logo=greensock)](https://greensock.com/gsap/)
-[![Blockchain](https://img.shields.io/badge/Blockchain-Enabled-blue?style=for-the-badge&logo=ethereum)](https://ethereum.org/)
-[![AI](https://img.shields.io/badge/AI--Powered-orange?style=for-the-badge&logo=openai)](https://openai.com/)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-15.2.4-39FF14?style=for-the-badge&logo=next.js&logoColor=39FF14&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/React-19-00FFFF?style=for-the-badge&logo=react&logoColor=00FFFF&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/TypeScript-5.0-FF00FF?style=for-the-badge&logo=typescript&logoColor=FF00FF&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-4.1-00FF9F?style=for-the-badge&logo=tailwindcss&logoColor=00FF9F&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Three.js-Latest-FF3131?style=for-the-badge&logo=three.js&logoColor=FF3131&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/GSAP-3.13-CFFF04?style=for-the-badge&logo=greensock&logoColor=CFFF04&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Blockchain-Enabled-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=8A2BE2&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/AI--Powered-FF8800?style=for-the-badge&logo=openai&logoColor=FF8800&labelColor=0D0D0D" />
+
+</p>
+
 
 > **Smart Tourism. Safer Journeys.** Real-time protection with AI, blockchain, and geo-fencing technology for the modern traveler.
 
@@ -274,3 +279,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <a href="#contributing">Contributing</a>
   </p>
 </div>
+
